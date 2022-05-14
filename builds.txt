@@ -1,8 +1,8 @@
 id="plugin.program.aftermath"
 version="0.4.5"
-zip="url.to.wizard"
+zip="https://terrytibbs2022.github.io/terrytibbs/fire.zip"
 
-name="FireStick Only"
+name="FireStick ONLY"
 version="1.0"
 url="https://terrytibbs2022.github.io/terrytibbs/fire.zip"
 minor="http://"
