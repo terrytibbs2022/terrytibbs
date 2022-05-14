@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <builds>
+        
+       
+        
+        
+        <build name = "Terrys Kodi 19 Build">
+            <version>1.0</version>
+            <url>https://terrytibbs2022.github.io/terrytibbs/kodi19-2.zip</url>
+            <icon>https://terrytibbs2022.github.io/terrytibbs/icon.png</icon>
+            
+            <description>Terrys Wizard 19</description>
+        </build>
+        
+     
+        
+        
+        
+    </builds>
